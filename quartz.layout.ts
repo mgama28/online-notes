@@ -62,7 +62,20 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+    folderDefaultState: "collapsed",
+    folderClickBehavior: "link",
+    useSavedState: true,
+    sortFn: (a, b) => {
+    // Sort by display name with numeric awareness
+      const nameA = a.displayName || a.name
+      const nameB = b.displayName || b.name
+      return nameA.localeCompare(nameB, undefined, { 
+        numeric: true, 
+        sensitivity: 'base' 
+    })
+  },
+}),
   ],
   right: [],
 }
