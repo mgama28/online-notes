@@ -19,9 +19,18 @@ tags:
 	3. How should the interactions feel?
 2. Sketch/wireframe the bento layout
 	1. How many boxes
+		1. around 4-5 boxes, aiming for 5
+			1. Box 1: Hero/intro -> quick information
+			2. Box 2: to the right top around 2/3 -> about? 
+			3. Box 3: under about 2/3 of box  1 -> skills, showcasing the skills I have
+			4. Box 4: next to skills to the right and under about, half the size of the about and 2/3 of box 1 -> contact/links box
+			5. Box 5: the whole width of all the boxes, at the bottom of the screen -> projects
+			6. 
 	2. What size is each section
 	3. Desktop vs Mobile layout
 3. Define the interaction flow clearly
 	1. When clicking on project -> does it overlap on top or transition to new page?
 	2. How would I navigate through pages
 	3. What about mobile? (tricky because of small space)
+
+![[Pasted image 20251212161254.png]]![[Pasted image 20251212161421.png]]![[Pasted image 20251212162050.png]]
