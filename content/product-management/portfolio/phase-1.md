@@ -20,13 +20,24 @@ tags:
 2. Sketch/wireframe the bento layout
 	1. How many boxes
 		1. around 4-5 boxes, aiming for 5
-			1. Box 1: Hero/intro -> quick information
-			2. Box 2: to the right top around 2/3 -> about? 
-			3. Box 3: under about 2/3 of box  1 -> skills, showcasing the skills I have
-			4. Box 4: next to skills to the right and under about, half the size of the about and 2/3 of box 1 -> contact/links box
-			5. Box 5: the whole width of all the boxes, at the bottom of the screen -> projects
-			6. 
+			1. Box 1: Hero/intro -> quick information the full width
+				1. Name, quick intro like a LinkedIn intro, important things that a recruiter would have to know -> I don't think section should extend
+				2. Could add a photo, maybe not myself  like a cartoon
+			2. Box 2: Skills -> to the left under the hero, 1/3 of the width -> will extend showing all of the skills
+				1. Maybe an Icon grid,  I want the people to be able to press on each skill and I have proof of the skill
+				2. I can start my top 5?
+			3. Box 3: Projects -> to the right of the skills, 2/3 of the width of the screen -> this section will extend to show the projects that I have worked on
+				1. My top 3 projects but right now only 2, I want preview cards, with a description attached and the tech stacks included
+			4. Box 4: Links -> underneath the skills 1/3 of the width -> this section won't expand
+				1. Links to socials, resume 
+			5. Box 5: About -> underneath the projects 2/3 of the width -> this section will expand to show the whole bio
+				1. it can show a preview of my bio
 	2. What size is each section
+		1. Box 1: 3 x 1
+		2. Box 2: 1 x2
+		3.  Box 3: 2 x 1
+		4. Box 4: 1 x 1
+		5.  Box 5: 2 x 1
 	3. Desktop vs Mobile layout
 3. Define the interaction flow clearly
 	1. When clicking on project -> does it overlap on top or transition to new page?
