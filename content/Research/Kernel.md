@@ -1,3 +1,8 @@
+---
+draft: true
+tags:
+  - computer-systems
+---
 ### What is a Kernel?
 - The middle man between software programs and the OS (the bridge)
 - The heart of operating systems
