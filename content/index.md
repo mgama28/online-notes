@@ -1,5 +1,7 @@
 ---
-title: Welcome to Maria's Brain
+title: Welcome to Maria's Research
 ---
+Welcome to my research hub!
 
-This is basically the home page
+My current research: [[Kernel]]
+
